@@ -8,14 +8,14 @@ I'm **Farda Karimov**, a Software Developer.
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: justify-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham" style="max-width: 49%;" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Statistics&langs_count=8"style="max-width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=latreon&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham" style="max-width: 49%;" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latreon&layout=compact&theme=gotham&custom_title=Statistics&langs_count=8"style="max-width: 49%;" />
 </div>
 
 ---
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimovFarda&theme=gotham&hide_border=false" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latreon&theme=gotham&hide_border=false" width="70%" />
 </div>
 
 ---
