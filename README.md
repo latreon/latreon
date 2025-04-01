@@ -15,7 +15,7 @@ I'm **Farda Karimov**, a Software Developer.
 ---
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latreon&theme=gotham&hide_border=false" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latreon&theme=gotham&hide_border=false" style="max-width: 70%" />
 </div>
 
 ---
