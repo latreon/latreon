@@ -9,7 +9,7 @@ I'm **Farda Karimov**, a Software Developer.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: justify-between; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=latreon&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham" style="max-width: 49%;" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latreon&layout=compact&theme=gotham&custom_title=Statistics&langs_count=8"style="max-width: 49%;" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=latreon&show_icons=true&locale=en&layout=compact&langs_count=8&theme=gotham" style="max-width: 49%;" />
 </div>
 
 ---
