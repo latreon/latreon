@@ -22,10 +22,10 @@
 
 <br />
 
-<a href="mailto:ferdakerim@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C9D1D9&labelColor=0D1117" alt="email" /></a>&nbsp;
-<a href="https://linkedin.com/in/farda-karimov-8a00a9183/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=0D1117" alt="linkedin" /></a>&nbsp;
-<a href="https://medium.com/@fardakarimov"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=C9D1D9&labelColor=0D1117" alt="medium" /></a>&nbsp;
-<a href="https://github.com/latreon"><img src="https://img.shields.io/badge/@latreon-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9&labelColor=0D1117" alt="github" /></a>
+<a href="mailto:ferdakerim@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=C9D1D9&labelColor=1E1E1E" alt="email" /></a>&nbsp;
+<a href="https://linkedin.com/in/farda-karimov-8a00a9183/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=1E1E1E" alt="linkedin" /></a>&nbsp;
+<a href="https://medium.com/@fardakarimov"><img src="https://img.shields.io/badge/Medium-1E1E1E?style=for-the-badge&logo=medium&logoColor=C9D1D9&labelColor=1E1E1E" alt="medium" /></a>&nbsp;
+<a href="https://github.com/latreon"><img src="https://img.shields.io/badge/@latreon-1E1E1E?style=for-the-badge&logo=github&logoColor=C9D1D9&labelColor=1E1E1E" alt="github" /></a>
 
 <br />
 <br />
@@ -81,26 +81,26 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/latreon">
-        <img height="195" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=latreon&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&card_width=500" alt="github stats" />
+        <img height="195" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=latreon&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1E1E1E&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&card_width=500" alt="github stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/latreon">
-        <img height="195" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=latreon&layout=compact&langs_count=12&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&size_weight=0.5&count_weight=0.5&card_width=500" alt="top languages" />
+        <img height="195" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=latreon&layout=compact&langs_count=12&hide_border=true&bg_color=1E1E1E&title_color=8B5CF6&text_color=C9D1D9&size_weight=0.5&count_weight=0.5&card_width=500" alt="top languages" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/latreon">
-        <img height="195" width="100%" src="https://streak-stats.demolab.com?user=latreon&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff&card_width=1010" alt="streak stats" />
+        <img height="195" width="100%" src="https://streak-stats.demolab.com?user=latreon&hide_border=true&background=1E1E1E&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff&card_width=1010" alt="streak stats" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/latreon">
-        <img height="280" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=latreon&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=C9D1D9&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution+Pulse" alt="activity graph" />
+        <img height="280" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=latreon&bg_color=1E1E1E&color=8B5CF6&line=8B5CF6&point=C9D1D9&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution+Pulse" alt="activity graph" />
       </a>
     </td>
   </tr>
