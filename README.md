@@ -37,7 +37,7 @@
 
 > Software developer with a bias for **production-ready foundations**.
 >
-> Most of what I publish is open source — starter kits, monorepos, and small zero-dependency libraries that fix one thing well. My flagship **NestJS boilerplate** hardens authentication with JWT, 2FA, and API keys. My **Go** utilities care about disk, CLIs, and shipping a binary that actually feels fast.
+> Most of what I publish is open source - starter kits, monorepos, and small zero-dependency libraries that fix one thing well. My flagship **NestJS boilerplate** hardens authentication with JWT, 2FA, and API keys. My **Go** utilities care about disk, CLIs, and shipping a binary that actually feels fast.
 
 ### `~/stack`
 
